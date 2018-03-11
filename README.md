@@ -1,4 +1,4 @@
-e# initial development of project
+# initial development of project
 # requirement of MEAN stack should be install
 
 # Application
@@ -11,7 +11,7 @@ e# initial development of project
 
 =>Node.js is the runtime for the application.
 
-To run the server:
+# To run the server:
 
 $ npm install -g nodemon
 
