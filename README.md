@@ -2,5 +2,7 @@
 # requirement of MEAN stack should install
 
 To run the server:
-  $ npm install -g nodmon
-  $ nodemon server.js
+
+$ npm install -g nodmon
+
+$ nodemon server.js
