@@ -1,5 +1,5 @@
 # initial development of project
-# requirement of MEAN stack should install
+# requirement of MEAN stack should be install
 
 To run the server:
 
