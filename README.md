@@ -1,4 +1,4 @@
-# initial development of project
+e# initial development of project
 # requirement of MEAN stack should be install
 
 # Application
@@ -13,6 +13,6 @@
 
 To run the server:
 
-$ npm install -g nodmon
+$ npm install -g nodemon
 
 $ nodemon server.js
